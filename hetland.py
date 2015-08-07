@@ -4,4 +4,4 @@ while summa < 100:
     more = input("Give more: ")
     summa = summa + more
     
-print "Done"
+print "Done", "(The sum is", summa, ")"
