@@ -1,9 +1,9 @@
-for x in range(1,101):
+""" for x in range(1,101):
         s = ""
         if x % 3 == 0:
             s += "Fizz"
         if x % 5 == 0:
-            s += "Buzz"
+           s += "Buzz"
         if s == "":
             s = x
         print s
@@ -20,6 +20,7 @@ for i in range(0,101):
         print "FIZZBUZZ: %d" % i
     else:
         print i
+"""
 
 # kolmas
 
